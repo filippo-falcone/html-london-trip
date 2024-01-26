@@ -3,4 +3,4 @@ Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto
 1. Create una nuova cartella per l'esercizio di oggi e collegate subito la repo su github con il nome: html-london-trip
 2. All'interno della cartella html-london-trip, create il file index.html (sarà la prima pagina ad aprirsi in un sito).
 3. All'interno della cartella html-london-trip, create una sotto cartella img nella quale inserirete le immagini necessarie.
-![Alt text](/img/viaggio-londra.jpg "Viaggio a Londra")
+![Alt text](./img/viaggio-londra.jpg "Viaggio a Londra")
